@@ -71,6 +71,5 @@ describe('saucedemo.com site e2e-tests',function () {
 
     cy.get(checkout_complete.complete_header).contains(checkout_complete.info);
     cy.get(checkout_complete.back_home).click();
-
   })
 })
