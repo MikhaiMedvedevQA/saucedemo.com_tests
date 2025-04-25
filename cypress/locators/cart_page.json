@@ -1,0 +1,9 @@
+{
+   "your_cart": "[data-test='title']",
+   "cart_info": "Your Cart",
+   "continue_shopping": "[data-test='continue-shopping']",
+   "checkout": "[data-test='checkout']",
+   "remove_fleece_jacket": "[data-test='remove-sauce-labs-fleece-jacket']"
+}
+
+

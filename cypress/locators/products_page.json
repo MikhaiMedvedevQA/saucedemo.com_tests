@@ -1,0 +1,8 @@
+{
+   "title": "[data-test='title']",
+   "title_info": "Products",
+   "Fleece_Jacket": "[data-test='add-to-cart-sauce-labs-fleece-jacket']",
+   "backpack": "[data-test='add-to-cart-sauce-labs-backpack']",
+   "cart_icon": "[data-test='shopping-cart-link']"
+}
+

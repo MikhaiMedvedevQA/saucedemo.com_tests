@@ -1,0 +1,11 @@
+{
+   "title": "[data-test='title']",
+   "first_name": "[data-test='firstName']",
+   "last_name": "[data-test='lastName']",
+   "zip": "[data-test='postalCode']",
+   "cansel": "[data-test='cancel']",
+   "continue": "[data-test='continue']",
+   "title_info": "Checkout: Your Information"
+}
+
+

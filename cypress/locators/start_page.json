@@ -1,0 +1,5 @@
+{
+   "username": "[data-test='username']",
+   "password": "[data-test='password']",
+   "login_button": "[data-test='login-button']"
+}

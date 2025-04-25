@@ -1,0 +1,8 @@
+{
+   "title": "[data-test='title']",
+   "complete_header": "[data-test='complete-header']",
+   "back_home": "[data-test='back-to-products']",
+   "info": "Thank you for your order!"
+}
+
+
